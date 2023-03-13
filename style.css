@@ -4,6 +4,9 @@
     margin-top: 15%;
     cursor: default;
 }
+.hh{
+    display: flex;
+}
 .heading{
     margin-right: 2%;
     font-family: sans-serif;
@@ -52,7 +55,11 @@
     margin-top: 90%;
 }
 .main-content img{
-    width: 100%;
+    width: 90%;
+    margin-left: 2%;
+}
+.mar{
+    margin-top: 2%;
 }
 @media(max-width: 350px){
     .paragraph p{
